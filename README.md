@@ -6,7 +6,7 @@
 
 
 
-> Frontend do Financeiro, com templates responsivas, Login JWT, várias funcionalidades da template, modals, CRUD com Axios, vue-router, dentre outras.
+> Frontend Vue com Login JWT, CRUD do financeiro com requisição HTTP(axios) e template responsiva com várias funcionalidades.
 
 ## Intalação
 
